@@ -1,6 +1,6 @@
 # ScarletFX
-My profile   https://rkscarlet.github.io/ScarletFX.github.io/
-comments
+My profile https://rkscarlet.github.io/ScarletFX.github.io/ <br>
+comments https://github.com/RKScarlet/RKScarlet/issues/1
 
 <!--
 **RKScarlet/RKScarlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
